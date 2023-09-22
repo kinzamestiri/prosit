@@ -1,0 +1,4 @@
+.red-border {
+    border: 2px solid red;
+    padding: 10px; /* Ajoutez un peu d'espace autour du contenu si nécessaire */
+}
